@@ -1,0 +1,38 @@
+{
+    "Food": [
+      "ZOMATO", "SWIGGY", "TACO BELL", "DISTRICT DINING", "YUM YUM CHA", "RESTAURANT", "DINING", "CAFE", "EATERY"
+    ],
+    "Groceries": [
+      "GROFERS", "BLINKIT", "BIGBASKET", "INSTAMART", "JIO MART", "SPENCERS", "NATURE"
+    ],
+    "Entertainment": [
+      "BOOKMYSHOW", "GAME PALACIO", "PVR", "INOX", "TIMEZONE", "CINEMA", "ENTERTAINMENT", "HOTSTAR", "NETFLIX", "SPOTIFY", "BOOK MY SHOW", "CIL GULSHAN "
+    ],
+    "Shopping": [
+      "FLIPKART", "AMAZON", "MYNTRA", "AJIO", "SHOPPERS STOP", "VIJAY SALES", "NYKAA", "LIFESTYLE", "RELIANCE TRENDS", "MINISO", "ADIDAS", "K R JEWELCRAFT PRIVATE"
+    ],
+    "Travel": [
+      "UBER", "OLA", "IRCTC", "MAKEMYTRIP", "REDBUS", "GOIBIBO", "VISTARA", "INDIGO", "AIR INDIA", "RAILWAY", "FLIGHT", "CAB", "METRO"
+    ],
+    "Utilities": [
+      "ELECTRICITY", "VODAFONE", "JIO", "AIRTEL", "RECHARGE", "PHONES", "INDIAN INSTITUTE OF TE", "PHONEPE", "PAYTM", "WATER BILL"
+    ],
+    "Tech/Software": [
+      "APPLE", "MICROSOFT", "GOOGLE", "GITHUB", "ZOOM", "ADOBE", "NOTION", "ICLOUD", "MICROSOFTBUS"
+    ],
+    "Medical": [
+      "APOLLO", "PHARMEASY", "MEDPLUS", "LAB", "DIAGNOSTIC", "PATHCARE", "HEALTHIANS", "HEALTH"
+    ],
+    "EMI": [
+      "EMI", "AMORTIZATION", "PROCESSING FEE", "INTEREST", "IGST"
+    ],
+    "Salary": [
+      "SALARY", "CREDITED BY", "NEFT-CR", "IMPS-CR", "PAYROLL", "REIMBURSEMENT"
+    ],
+    "Previous Balance": [
+        "Previous Balance"
+    ],
+    "Udemy":[
+        "souvik"
+    ]
+  }

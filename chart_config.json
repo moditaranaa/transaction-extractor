@@ -1,0 +1,21 @@
+{
+    "colors": [
+    "FF0000",
+    "33FF57",
+    "3357FF",
+    "FF33A8",
+    "A833FF",
+    "33FFF3",
+    "FFD133",
+    "8DFF33",
+    "FF8633",
+    "3C33FF",
+    "FF3333"
+    ],
+    "width": 14,
+    "height": 10,
+    "border": {
+      "color": "000000",
+      "thickness": 20000
+    }
+  }
